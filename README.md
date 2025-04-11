@@ -1,1 +1,3 @@
-aaaaaaaaaaa
+This repository contains the implementation of a project exploring dimensionality reduction using autoencoders, with a comparison to traditional methods like Principal Component Analysis (PCA). The project uses the MNIST dataset to demonstrate how autoencoders can effectively compress high-dimensional data into a lower-dimensional latent space while preserving essential features, outperforming PCA in reconstruction quality and downstream tasks.
+
+The project is based on the report "Dimensionality Reduction Using Autoencoders" and includes code, results, and documentation to replicate the experiments.
