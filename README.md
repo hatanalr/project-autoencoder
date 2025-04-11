@@ -12,12 +12,7 @@ The project is based on the report *"Dimensionality Reduction Using Autoencoders
 - [Methodology](#methodology)
 - [Results](#results)
 - [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Dependencies](#dependencies)
-- [Future Work](#future-work)
-- [References](#references)
-- [License](#license)
+
 
 ## Project Overview
 
